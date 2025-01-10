@@ -1,1 +1,2 @@
 Hallo ich freue mich riesig. 
+Ich versuche jetzt gleich eine message zu erstellen wenn ich git commit mache. 
